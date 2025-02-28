@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutMeImage = () => {
   return (
-    <div className="h-[500px] w-[300px] relative">
+    <div id="about" className="h-[500px] w-[300px] relative">
       {/* Image Container */}
       <div className="h-[500px] w-[300px] rounded-[100px] absolute overflow-hidden">
         <img
